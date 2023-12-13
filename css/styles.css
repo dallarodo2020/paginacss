@@ -1,0 +1,26 @@
+body{
+    color: brown;
+    background-color: rgb(18, 231, 231);
+}
+header{
+    background-color: blue;
+    height: 200px;
+}
+footer{
+    background-color: chartreuse;
+}
+p{
+    color: black;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+#texto-footer {
+    color: chocolate;
+    font-size: 50px;
+}
+.importante {
+    background-color: blueviolet;
+    color: crimson;
+}
